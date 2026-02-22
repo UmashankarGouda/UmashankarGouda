@@ -104,13 +104,22 @@
 ---
 ## 📊 GitHub Stats
 
-<div align="center">
+<table border="0" cellspacing="0" cellpadding="0">
+<tr>
 
-<img src="https://github-readme-stats.vercel.app/api?username=UmashankarGouda&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-<img src="https://streak-stats.demolab.com?user=UmashankarGouda&theme=tokyonight&hide_border=true" height="165" />
+<td width="55%" align="center">
 
-<br/>
+<a href="https://git.io/awesome-stats-card">
+  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/UmashankarGouda?cardType=level&theme=midnight-purple&preferLogin=false" width="95%" />
+</a>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UmashankarGouda&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</td>
 
-</div>
+<td width="45%" align="center">
+
+<img src="./modules/assets/cat.gif" width="90%" />
+
+</td>
+
+</tr>
+</table>
