@@ -60,7 +60,7 @@
 
 <td width="40%" align="center">
 
-<img src="https://github.com/UmashankarGouda/UmashankarGouda/blob/main/cat.gif" width="100%" />
+<img src="https://github.com/UmashankarGouda/UmashankarGouda/blob/main/modules/assets/cat.gif" width="100%" />
 
 </td>
 </tr>
