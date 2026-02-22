@@ -38,17 +38,17 @@
 <tr>
 <td width="55%">
 
-## 🧠 About Me
+## 😎 About Me
 
-🚀 Engineering student building **scalable backend & cloud systems**
+🎓 Computer Science undergraduate passionate about building scalable and impactful software systems  
 
-☁️ Exploring **DevOps, Kubernetes, and AI-powered platforms**
+☕ Focused on **Java Backend Development, Cloud Systems, and Applied AI**  
 
-🏆 IEEE CIS leader | Hackathon builder | Systems thinker
+🏆 Ex-Chair, IEEE CIS Society | 3× Hackathon Winner | Tech Explorer 
 
-🎨 Also crafting **high-impact visual designs**
+🎨 I also freelance in Graphic Design, Social Media Management, and Digital Marketing 
 
-🔥 Currently focused on shipping real-world, production-ready tech
+🔥 Currently deep-diving into **DevOps, Spring Boot, and production-grade architectures**
 
 ---
 
