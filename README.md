@@ -113,3 +113,13 @@
 </div>
 
 <br clear="both"/>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=UmashankarGouda&theme=github_dark" width="85%" />
+
+</div>
