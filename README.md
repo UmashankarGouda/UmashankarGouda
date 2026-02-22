@@ -12,20 +12,20 @@
 
 <div align="center">
 
-<a href="umashankars.co.in">
-  <img src="https://img.shields.io/badge/🚀%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+<a href="https://umashankars.co.in">
+  <img src="https://img.shields.io/badge/🚀%20Portfolio-374151?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 <a href="https://linkedin.com/in/UmashankarGouda">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://discord.com/users/975306299568967721">
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
 </a>
-<a href="blogs.umashankars.co.in">
-  <img src="https://img.shields.io/badge/Blogs-FF5722?style=for-the-badge&logo=hashnode&logoColor=white" />
+<a href="https://blogs.umashankars.co.in">
+  <img src="https://img.shields.io/badge/Blogs-374151?style=for-the-badge&logo=hashnode&logoColor=white" />
 </a>
 <a href="mailto:umashankars.work@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </div>
@@ -36,7 +36,7 @@
 
 <table>
 <tr>
-<td width="55%">
+<td width="60%">
 
 ## 😎 About Me
 
@@ -52,15 +52,13 @@
 
 ---
 
-### ⚡ Current Mission
-- Mastering Backend & System Design  
-- Building AI-driven safety solutions  
-- Scaling with Docker & Kubernetes  
-- Contributing to impactful open source  
-
+### ⚡ Currently Learning
+- Cloud Infrastructure
+- Spring Boot and backend systems  
+- DevOps, Docker & Kubernetes
 </td>
 
-<td width="45%" align="center">
+<td width="40%" align="center">
 
 <img src="https://github.com/UmashankarGouda/UmashankarGouda/blob/main/cat.gif" width="100%" />
 
@@ -69,3 +67,20 @@
 </table>
 
 ---
+## 🎬 Project Demos
+
+<div align="center">
+
+<a href="https://youtu.be/zKJ8kfVBZdQ">
+  <img src="https://img.youtube.com/vi/zKJ8kfVBZdQ/hqdefault.jpg" width="42%" />
+</a>
+&nbsp;&nbsp;
+<a href="https://youtu.be/4dRHq6BKuUQ">
+  <img src="https://img.youtube.com/vi/4dRHq6BKuUQ/hqdefault.jpg" width="42%" />
+</a>
+
+<b>KrishiSakhi – SIH 2025 Project Demo</b>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<b>NelotSavam – SIH 2025 Project Demo</b>
+
+</div>
