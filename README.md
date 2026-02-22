@@ -67,20 +67,37 @@
 </table>
 
 ---
-## 🎬 Project Demos
+<h2>
+🎬 Project Demos&nbsp;
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+</h2>
 
 <div align="center">
 
-<a href="https://youtu.be/zKJ8kfVBZdQ">
-  <img src="https://img.youtube.com/vi/zKJ8kfVBZdQ/hqdefault.jpg" width="42%" />
-</a>
-&nbsp;&nbsp;
-<a href="https://youtu.be/4dRHq6BKuUQ">
-  <img src="https://img.youtube.com/vi/4dRHq6BKuUQ/hqdefault.jpg" width="42%" />
-</a>
+<table>
+<tr>
 
-<b>KrishiSakhi – SIH 2025 Project Demo</b>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<b>NelotSavam – SIH 2025 Project Demo</b>
+<td align="center" width="48%">
+
+<a href="https://youtu.be/zKJ8kfVBZdQ">
+  <img src="https://img.youtube.com/vi/zKJ8kfVBZdQ/hqdefault.jpg" width="100%" />
+</a>
+<br>
+<sub><b>KrishiSakhi – SIH 2025 Project Demo</b></sub>
+
+</td>
+
+<td align="center" width="48%">
+
+<a href="https://youtu.be/4dRHq6BKuUQ">
+  <img src="https://img.youtube.com/vi/4dRHq6BKuUQ/hqdefault.jpg" width="100%" />
+</a>
+<br>
+<sub><b>NelotSavam – SIH 2025 Project Demo</b></sub>
+
+</td>
+
+</tr>
+</table>
 
 </div>
