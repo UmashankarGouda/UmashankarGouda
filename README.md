@@ -104,22 +104,12 @@
 ---
 ## 📊 GitHub Stats
 
-<table border="0" cellspacing="0" cellpadding="0">
-<tr>
+<div>
 
-<td width="55%" align="center">
+<img src="https://awesome-github-stats.azurewebsites.net/user-stats/UmashankarGouda?cardType=level&theme=dark&preferLogin=false&Border=null" width="62%" align="left"/>
 
-<a href="https://git.io/awesome-stats-card">
-  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/UmashankarGouda?cardType=level&theme=midnight-purple&preferLogin=false" width="95%" />
-</a>
+<img src="./modules/assets/sipping.jpg" width="27%" align="right"/>
 
-</td>
+</div>
 
-<td width="45%" align="center">
-
-<img src="./modules/assets/cat.gif" width="90%" />
-
-</td>
-
-</tr>
-</table>
+<br clear="both"/>
