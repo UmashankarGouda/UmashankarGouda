@@ -62,7 +62,7 @@
 
 <td width="45%" align="center">
 
-<img src="YOUR_ANIME_GIF_LINK" width="100%" />
+<img src="https://raw.githubusercontent.com/UmashankarGouda/UmashankarGouda/main/cat.gif" width="100%" />
 
 </td>
 </tr>
