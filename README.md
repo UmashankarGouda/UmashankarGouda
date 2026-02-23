@@ -223,6 +223,10 @@ If something here resonates with you, feel free to reach out — I’d love to c
 
 <br><br>
 
-<img src="https://visitcount.itsvg.in/api?id=UmashankarGouda&label=Profile%20Views&color=0&icon=5&pretty=true" />
+<div align="center">
+
+![](https://api.visitorbadge.io/api/VisitorHit?user=UmashankarGouda&repo=UmashankarGouda&label=Visitors%20Count&countColor=%230A66C2)
+
+</div>
 
 </div>
