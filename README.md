@@ -172,3 +172,25 @@
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=flat-square&logo=raspberry-pi)
 
 </details>  
+
+
+## 🏓 One Quick Game Before You Leave?
+
+<div align="center">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/UmashankarGouda/UmashankarGouda/github-breakout/images/breakout-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/UmashankarGouda/UmashankarGouda/github-breakout/images/breakout-light.svg"
+  />
+  <img
+    alt="Breakout Game"
+    src="https://raw.githubusercontent.com/UmashankarGouda/UmashankarGouda/github-breakout/images/breakout-light.svg"
+  />
+</picture>
+
+</div>
