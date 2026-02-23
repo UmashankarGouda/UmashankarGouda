@@ -194,3 +194,35 @@
 </picture>
 
 </div>
+
+---
+
+## 🤝 Let’s Connect
+
+I’m always open to collaborating on impactful projects, backend systems, and cloud-native solutions.
+
+If something here resonates with you, feel free to reach out — I’d love to connect.
+
+<div align="center">
+
+<a href="https://umashankars.co.in">
+  <img src="https://img.shields.io/badge/🚀%20Portfolio-374151?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+<a href="https://linkedin.com/in/UmashankarGouda">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://discord.com/users/975306299568967721">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+</a>
+<a href="https://blogs.umashankars.co.in">
+  <img src="https://img.shields.io/badge/Blogs-374151?style=for-the-badge&logo=hashnode&logoColor=white" />
+</a>
+<a href="mailto:umashankars.work@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br><br>
+
+<img src="https://visitcount.itsvg.in/api?id=UmashankarGouda&label=Profile%20Views&color=0&icon=5&pretty=true" />
+
+</div>
