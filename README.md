@@ -171,4 +171,4 @@
 **🔬 Hardware**  
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=flat-square&logo=raspberry-pi)
 
-</details>
+</details>  
