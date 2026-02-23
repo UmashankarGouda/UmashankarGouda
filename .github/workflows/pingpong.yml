@@ -1,0 +1,25 @@
+name: Ping Pong
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Generate ping pong
+        uses: platane/ping-pong@v1
+        with:
+          github_user_name: UmashankarGouda
+          output_file: dist/pingpong.svg
+
+      - name: Push ping pong to branch
+        uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
