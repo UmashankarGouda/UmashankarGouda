@@ -72,9 +72,9 @@
 </h2>
 <div align="center">
 
-<a href="https://youtu.be/WVVh26PE5Q4"><img src="https://ytcards.demolab.com/?id=WVVh26PE5Q4&title=Academic+Credential+Issuance+%26+Verification+System&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=300&border_radius=6" /></a>
-<a href="https://youtu.be/zKJ8kfVBZdQ"><img src="https://ytcards.demolab.com/?id=zKJ8kfVBZdQ&title=KrishiSakhi+-+SIH+2025+Hackathon+Project+Demo&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=300&border_radius=6" /></a>&nbsp;&nbsp;
-<a href="https://youtu.be/4dRHq6BKuUQ"><img src="https://ytcards.demolab.com/?id=4dRHq6BKuUQ&title=NelotSavam+-+SIH+2025+Hackathon+Project+Demo&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=300&border_radius=6" /></a>
+<a href="https://youtu.be/WVVh26PE5Q4"><img src="https://ytcards.demolab.com/?id=WVVh26PE5Q4&title=Academic+Credential+Issuance+%26+Verification+System&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=260&border_radius=6" /></a>
+<a href="https://youtu.be/zKJ8kfVBZdQ"><img src="https://ytcards.demolab.com/?id=zKJ8kfVBZdQ&title=KrishiSakhi+-+SIH+2025+Hackathon+Project+Demo&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=260&border_radius=6" /></a>&nbsp;&nbsp;
+<a href="https://youtu.be/4dRHq6BKuUQ"><img src="https://ytcards.demolab.com/?id=4dRHq6BKuUQ&title=NelotSavam+-+SIH+2025+Hackathon+Project+Demo&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=260&border_radius=6" /></a>
 
 </div>
 
