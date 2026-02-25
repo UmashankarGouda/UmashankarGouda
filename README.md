@@ -10,11 +10,11 @@
 
 <div align="center">
 
-<a href="https://umashankars.co.in">
-  <img src="https://img.shields.io/badge/🚀%20Portfolio-374151?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
 <a href="https://linkedin.com/in/UmashankarGouda">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://umashankars.co.in">
+  <img src="https://img.shields.io/badge/🚀%20Portfolio-374151?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 <a href="https://discord.com/users/975306299568967721">
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
@@ -209,11 +209,11 @@ If something here resonates with you, feel free to reach out — I’d love to c
 
 <div align="center">
 
-<a href="https://umashankars.co.in">
-  <img src="https://img.shields.io/badge/🚀%20Portfolio-374151?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
 <a href="https://linkedin.com/in/UmashankarGouda">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://umashankars.co.in">
+  <img src="https://img.shields.io/badge/🚀%20Portfolio-374151?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 <a href="https://discord.com/users/975306299568967721">
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
