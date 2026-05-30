@@ -45,7 +45,7 @@
 
 ☕ Focused on **Java Backend Development, Cloud Systems, and Applied AI**  
 
-🏆 Ex-Chair, IEEE CIS Society | 3× Hackathon Winner | Tech Explorer 
+🏆 Ex-Chair, IEEE CIS Society | 6× Hackathon Winner | Tech Explorer 
 
 🎨 I also freelance in Graphic Design, Social Media Management, and Digital Marketing 
 
